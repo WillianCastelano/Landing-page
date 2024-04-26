@@ -46,6 +46,10 @@
     border-radius: 12px;
  }
 
+ #phone_button button {
+   box-shadow: none;
+ } 
+
  
 #banner {
     display: flex;
